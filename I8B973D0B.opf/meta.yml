@@ -1,0 +1,18 @@
+id: I8B973D0B
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:02.479308
+last_modified: 2023-01-04 11:32:02.479324
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  107E:
+    title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+    base_file: 107E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
